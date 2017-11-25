@@ -38,3 +38,4 @@ while True:
 			print("I chose scissors ,you lose")
 			continue	    
 			    
+.
